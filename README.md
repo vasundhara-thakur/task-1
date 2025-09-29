@@ -2,5 +2,5 @@
 
 ## My resume website
 
-### Live demo
+## Live demo
 [click here ](https://firsttask01.netlify.app/)
