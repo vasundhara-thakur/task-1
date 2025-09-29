@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #f4f3ee;
+    text-align: center;
+}
+
+.header{
+    background-color: #023047;
+    color: #ffffff;
+    height: 150px;
+    text-align: center;
+    padding: 45px;
+}
+
+h1, h2{
+    text-transform: uppercase;
+}
+
+p{
+    padding: 20px;
+    font-size: 18px;
+}
+
+.about, .education, .skills, .projects, .contact{
+    margin: 40px 100px;
+    padding: 30px;
+}
+
+.about{
+    background-color: #b49fcc;
+}
+
+.education{
+    background-color: #78bc61;
+}
+
+.para {
+    background-color: #f4f3ee;
+    margin: 8px;
+}
+
+.skills{
+    background-color: #e0afa0;
+}
+.skills p{
+    font-weight: bold;
+}
+
+.projects{
+    background-color: #54a09b;
+}
+.projects p{
+    font-style: italic;
+}
+
+.contact{
+    background-color: #c2847a;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(92, 2, 92);
+}
+footer{
+    text-transform: uppercase;
+    background-color: #44454b;
+    color: #ffffff;
+    padding: 15px;
+    font-size: 12px;
+}
